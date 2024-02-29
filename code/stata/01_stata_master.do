@@ -1,8 +1,8 @@
 //Master do
-cd "C:\Users\Todoo\OneDrive - Central European University\2023_Winter semester\Coding for economists"
+cd "C:\Users\Todoo\OneDrive - Central European University\2023_Winter semester\Coding for economists/final_assignment"
 
 //mkdir final_assignment
-cd "final_assignment/"
+cd "assignmentof_coding_for_economists/"
 //mkdir data
 //cd "data"
 //mkdir raw
